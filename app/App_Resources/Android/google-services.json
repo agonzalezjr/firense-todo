@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172026999781",
+    "firebase_url": "https://firedux-todo-777a2.firebaseio.com",
+    "project_id": "firedux-todo-777a2",
+    "storage_bucket": "firedux-todo-777a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172026999781:android:2191f793704f60fc",
+        "android_client_info": {
+          "package_name": "org.nativescript.firensetodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtC5EpCdSIy7_ZHyrZjiupuVvJRYqGFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172026999781-ndb50kqornfcrnn8k6livt4l95ngmnvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172026999781-c1433p82aiv57n6mv4jcgja36lpmi6eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.firensetodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

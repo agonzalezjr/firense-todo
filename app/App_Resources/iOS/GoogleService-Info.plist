@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>172026999781-c1433p82aiv57n6mv4jcgja36lpmi6eh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.172026999781-c1433p82aiv57n6mv4jcgja36lpmi6eh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcl2FqOb73IelGTxPITr4uzzc21WvsSl0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>172026999781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nativescript.firensetodo</string>
+	<key>PROJECT_ID</key>
+	<string>firedux-todo-777a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firedux-todo-777a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:172026999781:ios:2191f793704f60fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://firedux-todo-777a2.firebaseio.com</string>
+</dict>
+</plist>
