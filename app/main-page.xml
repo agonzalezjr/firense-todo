@@ -29,10 +29,10 @@ https://docs.nativescript.org/ui/components.
     -->
     <ListView id="listView1" items="{{ todos }}">
         <ListView.itemTemplate>
-            <StackLayout orientation="horizontal">
-                <Label id="label1" text="{{ title }}" class="h1"/>
-                <Button text="Done" tap="{{ onTap }}" class="btn btn-primary btn-active"/>
-            </StackLayout>
+            <DockLayout stretchLastChild="false">
+                <Label id="label1" text="{{ title }}" class="todo-label h1"/>
+                <Button text="Done" tap="{{ onTap }}" width="70" dock="right" class="btn btn-primary btn-active"/>
+            </DockLayout>
         </ListView.itemTemplate>
     </ListView>
 

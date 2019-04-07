@@ -19,3 +19,7 @@ components that have the btn class name.
 .btn {
     font-size: 18;
 }
+
+.todo-label {
+    padding-left: 20;
+}
