@@ -37,6 +37,8 @@ export class HelloWorldModel extends Observable {
             }
             console.log("Todos: " + JSON.stringify(todos));
 
+            todos.sort((a, b) => a.title < b.title ? -1 : 1);
+
             this._todos = todos;
             this.notifyPropertyChange("todos", todos);
 
